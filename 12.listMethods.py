@@ -28,6 +28,9 @@ print(lst.count(3))
 lst1=[1,2,3,4]
 lst.extend(lst1)
 print(lst)
+tpl=(1,5,9)
+lst.extend(tpl)
+print(lst)
 #11
 lst.clear()
 print(lst)
