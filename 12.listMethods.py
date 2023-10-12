@@ -11,3 +11,23 @@ print(lst,"insert's 7 at 0'th index")
 #4
 newlst=lst.copy()
 print(newlst,"This is a copy of list, changes made will differ from orignal list")
+#5
+lst.reverse()
+print(lst)
+#6
+lst.remove(7)
+print(lst)
+#7
+lst.sort()
+print(lst)
+#8
+print(lst.index(3))
+#9
+print(lst.count(3))
+#10
+lst1=[1,2,3,4]
+lst.extend(lst1)
+print(lst)
+#11
+lst.clear()
+print(lst)
