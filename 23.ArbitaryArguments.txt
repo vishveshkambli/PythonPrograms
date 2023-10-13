@@ -1,0 +1,10 @@
+What are the types arbitary arguments
+    They are of two types:
+        1. * args           
+             aka arguments     
+        2.** kwargs
+             aka Keyword arguments
+
+How do you define (* args)
+    def function_name
+        statement
