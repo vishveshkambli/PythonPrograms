@@ -5,4 +5,4 @@ while num > 0:
     rev = (rev*10)+rem
     num = num//10
     print(rev)
-print('Reverse of 23597 is',rev)
+print('Reverse of 23597 is' ,rev)

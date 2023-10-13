@@ -4,6 +4,6 @@ for i in num:
     sum=sum+int(i)**len(num)
 print(sum)
 if int(num) == sum:
-    print("Armstrong")
+    print('Armstrong')
 else:
-    print("Not Armstrong")
+    print('Not Armstrong')
