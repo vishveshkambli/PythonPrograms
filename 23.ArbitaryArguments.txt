@@ -1,4 +1,4 @@
-What are the types arbitary arguments
+What are the types of arbitary arguments
     They are of two types:
         1. * args           
              aka arguments     
