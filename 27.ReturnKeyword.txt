@@ -1,0 +1,26 @@
+Return statement:
+    - They python return statement is the key component of functions and methods.
+    - You can use the return statement to make your functions send python object
+      back to the caller code.
+    - These objects are known as functions return value.
+    - You can use them to perform further computation in your program
+    - Using return statement effectively is a core skill if you want to 
+      code custom functions that are pythonic and robust
+    - You can return single as well as multiple values with the return statement
+
+Pre-requisite to understand return statement
+    Functions, often called as : 
+        Subroutines
+        Methods
+        Subprograms
+        Procedures (don't return a value)
+        Functions (do return a value)
+
+    In Python, a function is a self-contained block of code that encapsulates a specific 
+    task or related group of tasks.
+        All Python functions return a value, wether you indicate so or not
+
+understanding the python return statement
+    
+        
+

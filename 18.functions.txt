@@ -12,12 +12,12 @@ What is the syntax to define a function?
         block of code that runs
 
 What is the syntax to call a function?
-    function_name(argument)
+    function_name(parameters)
 
 What is pass keyword
     It is a pre defined keywordused to create empty functions
     Example:
-        def function_name(argument):
+        def function_name(parameters):
             pass
         function_name()    
 
