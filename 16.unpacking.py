@@ -1,4 +1,4 @@
-# Unpacking is only is when we perform our operations on pairss
+# Unpacking is uded only when we perform our operations on pairss
 
 dict={'a':1,'b':2,'c':3,'d':4}
 ndict = {x:y for x,y in dict.items()}
