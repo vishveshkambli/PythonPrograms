@@ -21,6 +21,28 @@ Pre-requisite to understand return statement
         All Python functions return a value, wether you indicate so or not
 
 understanding the python return statement
-    
+    A statemen t used inside a function to send the result back to the called.
+    It consists of the keyword return followed by an optional return value. 
+    The return value can be any python object & everything in python is an object
+    So, you can return :
+      numbers values - int, float, complex, etc
+      collection types - list, tuple, dictionary, ect
+      other user defined objects, classes, functions, modules, ect.
+    If you don't provide a retun value, None will be used as the return value.
+    This can also be called as an implicit return value.
+    Example:
+      print('Hello, world') is my input
+      Hello, world will be my output
+      
+      if i write,
+      return_value = print('hello world')
+      Hello, world again will e my output
+
+      Though if i write,
+      print(return_value)
+      None, is what my output is going to be
+
+      ref: https://realpython.com/lessons/implicit-returns-functions/
+
         
 
