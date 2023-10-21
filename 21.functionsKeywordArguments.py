@@ -1,3 +1,5 @@
 def details(name,mname,lname):
-    print(name,mname,lname)
-details(name="sameer",lname="maharana",mname="arun")
+    print('insert name',name,'insert mname',mname,'insert lname',lname)
+    print('insert name, mname & surname')
+details(name=input(),lname=input(),mname=input())
+
